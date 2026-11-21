@@ -1,0 +1,6 @@
+{
+  "name": "MISTER JO – PHYSICS OLYMPIAD LAB",
+  "description": "Aplikasi latihan interaktif Olimpiade Sains Fisika tingkat Kota/Kabupaten dengan 15 soal pengembangan khusus Soal Nomor 10 (Usaha dan Energi Vektor), lengkap dengan animasi pembuktian fisika, FBD, dan narator suara Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
